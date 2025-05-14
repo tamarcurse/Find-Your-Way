@@ -1,0 +1,210 @@
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.AssemblyInfoInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.AssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csproj.CoreCompileInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\appsettings.Development.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\appsettings.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.exe
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.deps.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.runtimeconfig.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.runtimeconfig.dev.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\ref\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\staticwebassets\truckingWebAPI.StaticWebAssets.Manifest.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\staticwebassets\truckingWebAPI.StaticWebAssets.xml
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\scopedcss\bundle\truckingWebAPI.styles.css
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.RazorTargetAssemblyInfo.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csproj.CopyComplete
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\ref\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.genruntimeconfig.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\BLL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DAL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\BLL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DAL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csprojAssemblyReference.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\appsettings.Development.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\appsettings.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.exe
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.deps.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.runtimeconfig.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.runtimeconfig.dev.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\ref\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Google.OrTools.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\google-ortools-native.so
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libortools.so
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\google-ortools-native.dylib
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libortools.dylib
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\google-ortools-native.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\BLL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DAL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DTO.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\BLL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DAL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DTO.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.AssemblyInfoInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.AssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csproj.CoreCompileInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\staticwebassets\truckingWebAPI.StaticWebAssets.Manifest.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\staticwebassets\truckingWebAPI.StaticWebAssets.xml
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\scopedcss\bundle\truckingWebAPI.styles.css
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.RazorTargetAssemblyInfo.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csproj.CopyComplete
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\ref\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.genruntimeconfig.cache
+F:\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.dll
+F:\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\ref\truckingWebAPI.dll
+F:\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\appsettings.Development.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\appsettings.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.exe
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.deps.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.runtimeconfig.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.runtimeconfig.dev.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\ref\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\truckingWebAPI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Google.OrTools.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Google.Protobuf.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\google-ortools-native.so
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libortools.so
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\google-ortools-native.dylib
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libortools.dylib
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\google-ortools-native.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\BLL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DAL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DTO.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\BLL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DAL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\bin\Debug\net5.0\DTO.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csprojAssemblyReference.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.AssemblyInfoInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.AssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csproj.CoreCompileInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\staticwebassets\truckingWebAPI.StaticWebAssets.Manifest.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\staticwebassets\truckingWebAPI.StaticWebAssets.xml
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\scopedcss\bundle\truckingWebAPI.styles.css
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.RazorTargetAssemblyInfo.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csproj.CopyComplete
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\ref\truckingWebAPI.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\גיבוי פרויקט גמר  24.03.2022\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.genruntimeconfig.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\truckingWebAPI\obj\Debug\net5.0\truckingWebAPI.pdb

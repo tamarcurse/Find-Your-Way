@@ -1,0 +1,40 @@
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

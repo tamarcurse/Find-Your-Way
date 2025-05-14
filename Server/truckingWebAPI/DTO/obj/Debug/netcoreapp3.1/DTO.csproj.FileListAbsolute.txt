@@ -1,0 +1,25 @@
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+H:\שנה ב תשפב\תלמידות\תמר אינדורסקי\פרויקט גמר\הפרויקט ב c#\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\HOME\Documents\לימודים\פרויקט גמר\הפרויקט להרצה\truckingWebAPI\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
