@@ -1,0 +1,1 @@
+export default 'AIzaSyA2C89PTegoG9njrKNSD6Cv_M8aPSvtKdA'

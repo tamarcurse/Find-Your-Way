@@ -1,0 +1,245 @@
+.App {
+  text-align: center;
+  opacity: 100%;
+  /* background-color: rgba(255, 255, 255, 0.7) */
+}
+
+.bg-image {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("./images/25.jpg");
+  /* height: 100vh; */
+
+  width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  /* overflow: hidden; */
+  /* position: static;*/
+}
+
+
+
+.flex {
+  display: flex;
+  direction: ltr;
+}
+
+body {
+  --bs-body-font-family: var(--bs-font-monospace);
+  --bs-body-line-height: 1.4;
+  --bs-body-bg: var(--bs-gray-100);
+
+}
+
+.box {
+  background-color: white;
+  width: 65em;
+}
+
+button {}
+
+.cls {
+  background-color: #d63384;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.noWrap {
+  flex-wrap: inherit;
+}
+
+.card {
+  flex: 0 0 200px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+  width: '18rem';
+  height: 22em;
+}
+
+.card img {
+  max-width: 100%;
+}
+
+.card .text {
+  padding: 0 20px 20px;
+}
+
+.card .text>button {
+  background: gray;
+  border: 0;
+  color: white;
+  padding: 10px;
+  width: 100%;
+}
+
+.margin-4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 12px;
+}
+
+.form {
+  width: 59vw;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h4 {
+  margin-top: 28px;
+}
+
+.boldNav {
+  border-bottom: solid;
+  border-bottom-width: 5px;
+}
+
+nav#basic-navbar-nav {
+  padding-bottom: 0;
+}
+
+.titlePrivate {
+  margin: auto;
+  padding: 21px;
+}
+
+input {
+  width: 16em !important;
+  margin: auto;
+}
+
+.inputIN {
+  margin: 1.5vw;
+}
+
+.textFailed {
+  margin: 1.5vh !important;
+}
+
+.box {
+  background-color: white;
+  width: 65em;
+
+  margin-top: 1vh;
+  padding-bottom: 2em;
+}
+
+.box.boxPrivate {
+  width: 40em;
+  margin: auto;
+  padding-top: 1em;
+  margin-top: 10em;
+  padding-bottom: 1em;
+}
+
+.box.search {
+  width: 24em;
+  display: block;
+}
+
+.filterOut.margin-4 {
+  width: 18em;
+  margin-right: 2vw;
+  margin-left: 2vw;
+  background-color: white;
+  margin-top: 1em;
+  /* height: 4em; */
+  padding-top: 1em;
+}
+
+.filters {
+  display: flex;
+  margin: auto;
+  padding: inherit;
+  width: 56em;
+}
+
+.box.filterShop.filters {
+  width: 38em;
+  height: 6em;
+}
+
+.c-white {
+  background-color: white;
+  margin-top: 4px;
+}
+
+.button-ok {
+  float: left;
+  direction: ltr;
+  margin: auto !important;
+}
+
+.map {
+  width: 75vw;
+
+  margin: auto;
+}
+
+.about {
+  margin: auto;
+  font-size: 19px;
+  text-align: right;
+  padding: 27px;
+  /* margin-top: 5em; */
+  position: relative;
+  top: 5em;
+}
+
+
+.about h1 {
+  text-align: center;
+}
+
+.about h3 {
+  text-align: center;
+}
+
+a.nav-link {
+  font-size: 20px;
+}
+
+.fixed {
+  position: fixed;
+  width: 100%;
+}
+
+.stepers {
+  margin-top: 2em;
+  padding: 13px;
+}
+
+.text-have-not {
+  font-size: 30px;
+  background-color: white;
+  position: relative;
+  top: 2vh;
+}
+
+img.bigLogo {
+  width: 100vw;
+  background-color: black;
+  margin-top: 11vw;
+}
+
+.header2 {
+  margin-top: 1em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.truckPrivate {
+  width: 10em;
+  height: 17em;
+  margin: auto;
+  margin-top: 3em;
+}
+
+#privateProvider {
+  width: 150px;
+}
